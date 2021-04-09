@@ -102,6 +102,7 @@ h6 {
 #header #logo h1 a,
 #header #logo h1 a:hover {
     color: #fff;
+    font-size: 25px;
 }
 
 #header #logo img {
